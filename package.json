@@ -1,0 +1,10 @@
+{
+  "name": "monad-pevm-dynamic-gas-pool",
+  "version": "1.0.0",
+  "description": "Thread-isolated dynamic gas pool routing and validation harness for Monad EVM",
+  "main": "simulateGasPool.js",
+  "dependencies": {
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
